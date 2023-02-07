@@ -1,7 +1,7 @@
 module.exports = {
   "stories": [
-    "../stories/**/*.stories.mdx",
-    "../stories/**/*.stories.@(js|jsx|ts|tsx)"
+    "../src/pages/**/*.stories.mdx",
+    "../src/stories/**/*.stories.tsx"
   ],
   "addons": [
     "@storybook/addon-links",
@@ -13,6 +13,6 @@ module.exports = {
     "builder": "@storybook/builder-vite"
   },
   "features": {
-    "storyStoreV7": true
+    "storyStoreV7": false
   }
 }
