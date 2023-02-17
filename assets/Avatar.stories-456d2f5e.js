@@ -1,0 +1,2 @@
+import{A as t}from"./index-4efd9571.js";import"./index-39d17dc8.js";import"./es.object.get-own-property-descriptor-037fa860.js";import"./index-f97499ea.js";import"./jsx-runtime-310bfdac.js";const p={title:"Data display/Avatar",component:t,args:{src:"https://github.com/ibsenriou.png",alt:"Ibsen Riou"},argTypes:{src:{control:{type:"text"}}}},c={},e={args:{src:""}},m=["Primary","WithFallback"];export{c as Primary,e as WithFallback,m as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories-456d2f5e.js.map
